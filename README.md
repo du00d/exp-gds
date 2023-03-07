@@ -16,6 +16,7 @@ make
 ```
 
 To execute the program. (Assume we store feat.bin file on /mnt/nvme/)
+Note: make sure the drive is mounted in data=ordered for GDS compatiability. 
 
 parameter 1: /mnt/nvme/feat.bin
 
