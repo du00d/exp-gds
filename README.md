@@ -30,10 +30,10 @@ For example:
 ```
 ./gds_read /mnt/nvme/feat.bin 10000 100
 ```
+To test for POSIX v.s GDS mode. Turn on/off  properties.force_compat_mode in cufile.json
 
 Similarly,
 ```
 ./mmap_read /mnt/nvme/feat.bin 10000 100
 ```
-
 
