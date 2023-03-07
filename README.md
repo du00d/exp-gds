@@ -15,10 +15,11 @@ To compile all the experiments. This will output gds_read and mmap_read.
 make 
 ```
 
-To execute the program. (Assume we store feat.bin file on /mnt/nvme/)
+To execute the program.
+
 Note: make sure the drive is mounted in data=ordered for GDS compatiability. 
 
-parameter 1: /mnt/nvme/feat.bin
+parameter 1: <filepath>
 
 parameter 2: <NUM_READS>
 
