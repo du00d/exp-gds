@@ -26,9 +26,13 @@ parameter 3: <ARRAY_SIZE>
 
 
 For example: 
-```./gds_read /mnt/nvme/feat.bin 10000 100```
+```
+./gds_read /mnt/nvme/feat.bin 10000 100
+```
 
 Similarly,
-```./mmap_read /mnt/nvme/feat.bin 10000 100```
+```
+./mmap_read /mnt/nvme/feat.bin 10000 100
+```
 
 
