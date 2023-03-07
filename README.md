@@ -19,7 +19,7 @@ To execute the program.
 
 Note: make sure the drive is mounted in data=ordered for GDS compatiability. 
 
-parameter 1: <filepath>
+parameter 1: < FILEPATH >
 
 parameter 2: <NUM_READS>
 
